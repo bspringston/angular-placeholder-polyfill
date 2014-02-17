@@ -1,0 +1,25 @@
+{
+  "name": "angular-placeholder-polyfill",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dboskovic/angular-placeholder-polyfill",
+  "authors": [
+    "vict-shevchenko"
+  ],
+  "description": "A directive for AngularJS which allows using of 'placeholder' attribute in old browsers.",
+  "main": "angular.placeholder.polyfill.js",
+  "keywords": [
+    "angular",
+    "placeholder",
+    "polyfill",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
